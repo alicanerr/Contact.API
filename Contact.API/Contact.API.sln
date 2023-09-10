@@ -9,13 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{154A67E7-9260-425E-8BE3-2AEA8D7CAA0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.Application", "Core\Contact.Application\Contact.Application.csproj", "{D8BD71DB-5DC2-4939-AFD4-4FA28D7F5F82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.Application", "Core\Contact.Application\Contact.Application.csproj", "{D8BD71DB-5DC2-4939-AFD4-4FA28D7F5F82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.Domain", "Core\Contact.Domain\Contact.Domain.csproj", "{3CB26C4B-3BFB-444A-B168-B06BC47D724E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.Domain", "Core\Contact.Domain\Contact.Domain.csproj", "{3CB26C4B-3BFB-444A-B168-B06BC47D724E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.API", "Presentation\Contact.API\Contact.API.csproj", "{1C0D8E22-F966-475F-8BEE-910F41CCA1AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.API", "Presentation\Contact.API\Contact.API.csproj", "{1C0D8E22-F966-475F-8BEE-910F41CCA1AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact.Services", "Services\Contact.Services\Contact.Services.csproj", "{C7E2D4E0-997A-4134-B6F5-1C80D0F901C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contact.Services", "Services\Contact.Services\Contact.Services.csproj", "{C7E2D4E0-997A-4134-B6F5-1C80D0F901C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
